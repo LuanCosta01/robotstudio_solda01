@@ -12,3 +12,4 @@ Peça 1 - Position: x = 1100 y = 155 z = -396 Orientation: 0 0 -90
 
 Peça 2 - Position: x = 1100 y = -155 z = -396 Orientation: 0 0 -90
 
+PERS tooldata tAW_Gun:=[TRUE,[[119.5,0,352],[0.890213,0,0.455542,0]],[5,[0,0,200],[1,0,0,0],0,0,0]];
